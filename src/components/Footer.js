@@ -1,7 +1,5 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import styled from "styled-components";
-import { ethers } from "ethers";
-import faucet from "../artifacts/contracts/Faucet.sol/faucet.json";
 import CopyrightIcon from "@mui/icons-material/Copyright";
 import { SiEthereum } from "react-icons/si";
 import Contacts from "./Contacts.js";
