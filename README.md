@@ -1,15 +1,9 @@
-# Basic Sample Hardhat Project
+#This is my first ever Ethereum dapp!!!
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+It is my first time woking with Ethereum and writing a Solidity smart contract and I must say,
+it has been an amazing experience. 
 
-Try running some of the following tasks:
+From Coding a full react application and then linking it to the Solidity faucet contract using ethers.js,
+the learning process has been quite fullfilling.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+I am looking forward to conntinue learnig new things in this space and push for greater achievements.
